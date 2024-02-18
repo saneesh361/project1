@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+}
+/* Header section */
+span.h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+span.h1{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* banner section */
+.banner{
+    background-color:rgb(25,27,40);
+    color: white;
+    min-height:450px;
+     }
+
+.inner-box2{
+    padding:15px;
+    bottom: 15px;
+    text-align:left;
+}
+       p.h2{
+    font-weight:bold;
+    text-align:left;
+}
+p.h5{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+.hr{
+    border: solid 1px white;
+               }
+.btn-light {
+            color: rgb(50, 147, 211);
+                                             }  
+
+/* About section */
+.jumb{
+    text-align: center;
+    font-size: x-large;
+}
+hr.hr1{
+    color: black;
+    margin:auto;
+    width: 130px;
+    height: 2px;
+}
+.p{
+    text-align: center;
+    font-size: large;
+}
+/* service section */
+.service{
+    background-color:rgb(25,27,40);
+    min-height: 300px;
+}
+.service-section{
+    background-color:rgb(25,27,40);
+    position: relative;
+}
+p.h6{
+    margin-left:75px;
+}
+hr.hr2{
+    color: white;
+    margin: auto;
+    width:20%;
+    height: 2px;
+}
+hr.hr3{
+    color: white;
+    margin: auto;
+    width: 20%;
+    height: 2px;
+}
+hr.hr4{
+    color: white;
+    margin: auto;
+    width: 20%;
+    height: 2px;
+}
+.box{
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid rgb(25,27,40);
+    position:absolute;
+    bottom:-35px;
+    left:50%;
+    z-index: 100;
+}
+
+/* Notice section */
+.Notice{
+    background-color: grey;
+    min-height: 350px;
+}
+.inner-box3{
+    text-align: center;
+}
+/* Product section */
+.indo{
+    font-size: xx-large;
+    }
+hr.hr5{
+    color:grey;
+    margin:auto;
+    width: 07%;
+    height:1px;
+      }
+    .inner-box4{
+          margin: auto;
+          padding-bottom: 5px;
+    }
+       
+/* News section */
+.news{
+    background-color: grey;
+    min-height: 350px;
+    }
+    .inner-box11{
+        padding: 15px;
+        bottom: 15px;
+        text-align: center;
+    }
+.indo1{
+    font-family:High Tower Text;
+}
+/* Footer section */
+.inner-box1{
+    text-align: center;
+}
+
